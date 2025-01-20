@@ -1,1 +1,1 @@
-# iidx-gn-to-bms-gn-converter
+# https://kassibuss.github.io/iidxgnconv
